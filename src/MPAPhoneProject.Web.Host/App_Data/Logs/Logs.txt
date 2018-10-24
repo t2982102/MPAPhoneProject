@@ -1,0 +1,47 @@
+DEBUG 2018-10-24 10:25:34,954 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-10-24 10:25:35,011 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2018-10-24 10:25:35,029 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MPAPhoneProject.Web.Host.Startup.MPAPhoneProjectWebHostModule, MPAPhoneProject.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,033 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MPAPhoneProject.MPAPhoneProjectWebCoreModule, MPAPhoneProject.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,034 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MPAPhoneProject.MPAPhoneProjectApplicationModule, MPAPhoneProject.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,034 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MPAPhoneProject.MPAPhoneProjectCoreModule, MPAPhoneProject.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,035 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,035 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,036 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,036 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,037 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MPAPhoneProject.EntityFrameworkCore.MPAPhoneProjectEntityFrameworkModule, MPAPhoneProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,038 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,038 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,038 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,039 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,039 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,039 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,043 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2018-10-24 10:25:35,098 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-24 10:25:35,098 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-24 10:25:35,098 [1    ] o.Configuration.LanguageManagementConfig - Converted MPAPhoneProject (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-24 10:25:35,098 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-24 10:25:35,325 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MPAPhoneProject.EntityFrameworkCore.MPAPhoneProjectDbContext, MPAPhoneProject.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-24 10:25:35,693 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2018-10-24 10:25:35,782 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-10-24 10:25:35,827 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-10-24 10:25:35,859 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MPAPhoneProject
+DEBUG 2018-10-24 10:25:35,892 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-10-24 10:25:35,932 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-10-24 10:25:35,978 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2018-10-24 10:25:35,978 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPAPhoneProject.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2018-10-24 10:25:35,983 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPAPhoneProject.Users.Dto.CreateUserDto
+DEBUG 2018-10-24 10:25:35,984 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPAPhoneProject.Users.Dto.UserDto
+DEBUG 2018-10-24 10:25:35,984 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPAPhoneProject.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2018-10-24 10:25:35,984 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPAPhoneProject.Sessions.Dto.UserLoginInfoDto
+DEBUG 2018-10-24 10:25:35,985 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPAPhoneProject.Roles.Dto.CreateRoleDto
+DEBUG 2018-10-24 10:25:35,985 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPAPhoneProject.Roles.Dto.PermissionDto
+DEBUG 2018-10-24 10:25:35,985 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPAPhoneProject.Roles.Dto.RoleDto
+DEBUG 2018-10-24 10:25:35,985 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPAPhoneProject.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2018-10-24 10:25:35,985 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MPAPhoneProject.MultiTenancy.Dto.TenantDto
+INFO  2018-10-24 10:25:39,259 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2018-10-24 10:25:40,343 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action MPAPhoneProject.Web.Host.Controllers.HomeController.Index (MPAPhoneProject.Web.Host)
+INFO  2018-10-24 10:25:40,686 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MPAPhoneProject.Web.Host.Controllers.HomeController.Index (MPAPhoneProject.Web.Host) - Validation state: Valid
+INFO  2018-10-24 10:25:40,690 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MPAPhoneProject.Web.Host.Controllers.HomeController.Index (MPAPhoneProject.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 1.8141ms.
+INFO  2018-10-24 10:25:40,872 [7    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2018-10-24 10:25:40,883 [7    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MPAPhoneProject.Web.Host.Controllers.HomeController.Index (MPAPhoneProject.Web.Host) in 536.5234ms
+INFO  2018-10-24 10:25:40,939 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1684.0694ms 302 
